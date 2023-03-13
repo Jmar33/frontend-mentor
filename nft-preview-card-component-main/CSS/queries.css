@@ -1,0 +1,90 @@
+/******************************/
+/* BELLOW THAN 1300px */
+/******************************/
+@media (max-width: 82em) {
+}
+
+/******************************/
+
+/******************************/
+/* BELLOW THAN 1200px */
+
+@media (max-width: 76em) {
+  html {
+    font-size: 56.25%;
+  }
+
+  .container {
+    width: 30%;
+  }
+}
+/******************************/
+
+/******************************/
+/* BELLOW THAN 1056px */
+
+@media (max-width: 66em) {
+  html {
+    font-size: 50%;
+  }
+
+  .container {
+    width: 33%;
+  }
+
+  .nft {
+    padding: 2.4rem;
+  }
+}
+/******************************/
+
+/******************************/
+/* BELLOW THAN 830px */
+
+@media (max-width: 52em) {
+  .container {
+    width: 37%;
+  }
+}
+/******************************/
+
+/******************************/
+/* BELLOW THAN 688px */
+
+@media (max-width: 44em) {
+  html {
+    font-size: 48%;
+  }
+  .container {
+    width: 40%;
+  }
+
+  .nft {
+    padding: 2rem;
+  }
+}
+
+/******************************/
+
+/******************************/
+/* BELLOW THAN 570px */
+
+@media (max-width: 36em) {
+  html {
+    font-size: 46%;
+  }
+  .container {
+    width: 45%;
+  }
+}
+
+/******************************/
+
+/******************************/
+/* BELLOW THAN 416px */
+
+@media (max-width: 26em) {
+  .container {
+    width: 60%;
+  }
+}
